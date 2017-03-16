@@ -1,6 +1,7 @@
 # sell
 
 > sell app project from mooc.com
+
 > update to chapter 7
 
 ## Build Setup
@@ -16,5 +17,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-For detailed information about this course, ckeckout the [vuejs course](http://coding.imooc.com/learn/list/74.html)
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.
+
+For detailed information about this course, ckeckout the [vuejs course](http://coding.imooc.com/learn/list/74.html).s
